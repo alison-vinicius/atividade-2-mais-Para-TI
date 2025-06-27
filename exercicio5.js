@@ -20,6 +20,6 @@ function salvarBusca(termo) {
 
 const buscaComDebounce = debounce(salvarBusca, 1000)
 
-buscaComDebounce("Ali");
-buscaComDebounce("Vini");
-buscaComDebounce("santos");
+buscaComDebounce("Ali")
+buscaComDebounce("Vini")
+buscaComDebounce("santos")
